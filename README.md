@@ -1,1 +1,1 @@
-## Draw on Screen - Annotation for content creators
+## Draw on Screen

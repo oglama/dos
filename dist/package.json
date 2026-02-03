@@ -1,0 +1,10 @@
+{
+    "name": "drawonscreen",
+    "version": "0.0.2",
+    "description": "Screen drawing for content creators",
+    "homepage": "https://drawonscreen.com/",
+    "author": "Oglama",
+    "main": "run.js",
+    "res": true,
+    "license": "Oglama-1.0"
+}

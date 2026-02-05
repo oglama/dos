@@ -14,15 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-__turbopack_load_page_chunks__("/", [
-  "static/chunks/17b7ed2318e6309f.js",
-  "static/chunks/e8d5db163337d363.js",
-  "static/chunks/1f5293b7910cbb80.js",
+__turbopack_load_page_chunks__("/404", [
+  "static/chunks/70696d44aa25292b.js",
+  "static/chunks/9e9ed20ed48678f9.js",
   "static/chunks/f58375c57974598e.js",
-  "static/chunks/1c9a4c406ea98d2f.js",
   "static/chunks/b4e4b8944e5b18fa.js",
   "static/chunks/301d74a7936d823e.js",
-  "static/chunks/df21c9bc74a95ac0.js",
-  "static/chunks/9e9ed20ed48678f9.js",
-  "static/chunks/turbopack-113469176e862af5.js"
+  "static/chunks/3382a9da18634e3d.js",
+  "static/chunks/turbopack-bf3874b983d52f3f.js"
 ])

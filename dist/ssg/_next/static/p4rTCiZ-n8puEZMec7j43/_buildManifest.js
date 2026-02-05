@@ -14,16 +14,37 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-__turbopack_load_page_chunks__("/_app", [
-  "static/chunks/c65781638b099709.js",
-  "static/chunks/06980799e77146be.js",
-  "static/chunks/301d74a7936d823e.js",
-  "static/chunks/f58375c57974598e.js",
-  "static/chunks/dbceb600cf625e37.js",
-  "static/chunks/df21c9bc74a95ac0.js",
-  "static/chunks/bd67ef9caf2d3618.js",
-  "static/chunks/9e9ed20ed48678f9.js",
-  "static/chunks/71188e40c7e04e94.js",
-  "static/chunks/91a11756ad7ee922.css",
-  "static/chunks/turbopack-c81aedf097718a93.js"
-])
+self.__BUILD_MANIFEST = {
+  "/": [
+    "static/chunks/85908e2e2748661f.js"
+  ],
+  "/404": [
+    "static/chunks/2850d3cafa452efc.js"
+  ],
+  "/500": [
+    "static/chunks/368f3c1902bf3e70.js"
+  ],
+  "/503": [
+    "static/chunks/4f57aaa25251c684.js"
+  ],
+  "/_error": [
+    "static/chunks/16da63d0cba65c58.js"
+  ],
+  "/login": [
+    "static/chunks/3b611f3ea8cd3a2c.js"
+  ],
+  "__rewrites": {
+    "afterFiles": [],
+    "beforeFiles": [],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/",
+    "/404",
+    "/500",
+    "/503",
+    "/_app",
+    "/_error",
+    "/login"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

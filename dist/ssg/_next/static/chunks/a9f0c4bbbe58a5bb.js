@@ -19,11 +19,11 @@ __turbopack_load_page_chunks__("/_app", [
   "static/chunks/06980799e77146be.js",
   "static/chunks/301d74a7936d823e.js",
   "static/chunks/f58375c57974598e.js",
-  "static/chunks/dbceb600cf625e37.js",
-  "static/chunks/3382a9da18634e3d.js",
+  "static/chunks/ea54327aec292413.js",
+  "static/chunks/e833bec045ab2199.js",
   "static/chunks/bd67ef9caf2d3618.js",
   "static/chunks/9e9ed20ed48678f9.js",
   "static/chunks/71188e40c7e04e94.js",
   "static/chunks/91a11756ad7ee922.css",
-  "static/chunks/turbopack-4d408b7d3942a95b.js"
+  "static/chunks/turbopack-238dfb61a57e1842.js"
 ])

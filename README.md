@@ -14,14 +14,15 @@ Create an account at [Draw on Screen](https://drawonscreen.com/?ref=github) and 
 
 #### 📦 Older release
 
-To install an older version, visit the [Releases](https://github.com/oglama/dos/releases) page and download the appropriate installer.
+To install an older version, visit the [Releases](https://github.com/uindow/dos/releases) page and download the appropriate installer.
 
 #### 🌙 Nightly build
 
 To run the latest (unreleased) version of Draw on Screen, **clone this repository** and run the following commands:
 
 ```bash
-git clone https://github.com/oglama/dos.git .
+git clone https://github.com/uindow/dos.git .
 npm install
 npm start
 ```
+
